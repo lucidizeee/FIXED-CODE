@@ -1,6 +1,6 @@
 // @title No warning FIX
 // @by Eign0x
-// Export: start 0, end 148 (4 cycle tail).
+
 
 const BPM = 180;
 const END = 144;
